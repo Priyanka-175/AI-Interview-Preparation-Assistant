@@ -1,0 +1,30 @@
+Skill,Question,Answer,Category,Difficulty
+Python,What is Python?,Python is a Programming Language ,Technical,Easy
+Python,Explain OOPS Concept,"Encapsulation,Inheritence,Polymorphism",Technical,Medium
+Machine Learning,What is overfitting?,Model performs well on training data but poor on testing data,Technical,Medium
+HTML,What is HTML?,Hyper Text Markup Language,Technical,Easy
+HTML,What are HTML tags?,Elements used to structure webpage,Technical,Easy
+HTML,Difference between div and span,"div is block,span is inline",Technical,Medium
+CSS,What is CSS?,Cascading Style Sheets,Technical,Easy
+CSS,What is Flexbox?,CSS layout method,Technical,Medium
+CSS,difference btw margin and padding,"margin is outside, padding is inside",Technical,Medium
+Machine Learning,What is underfitting?,Model performs poorly on both testing and training,Technical,Medium
+Machine Learning,difference btw classification and regression,"classification predicts category,regression predicts value",Technical,Medium
+Deep Learning,What is Deep Learning?,Subset of ML using neural networks,Technical,Easy
+Deep Learning,What is CNN?,Neural netwoek for image processing,Technical,Medium
+TensorFlow,What is TensorFlow?,Deep learning framework,Technical,Medium
+SQL,What is SQL?,Structured Query Language,Technical,Easy
+Python,What is a function?,Reusable block of code,Technical,Medium
+HR,Tell me about Yourself,Self intro,HR,Easy
+HR,What are your Strengths?,Example:Quick learner,HR,Easy
+HR,what are your weakness?,Example:perfectionism,HR,Easy
+HR,Why should we hire you?,Skills and Suitability,HR,Medium
+HR,Where do you see yourself in 5 years?,Career growth,HR,Medium
+HR,Are you willing to relocate?,yes,HR,Easy
+HR,Can you work under deadlines?,yes,HR,Medium
+HR,What are your short-term goals?,Skill improvement and job,HR,Easy
+HR,What are your long-term goals?,Carrer advancement,HR,Medium
+HR,How do you manage time?,Prioritize important tasks,HR,Easy
+HR,What are your salary expectations?,As per company Standards,HR,Medium
+HR,What do you know about our company?,Company background,HR,Easy
+HR,Do you have any questions for us?,Ask about growth opportunities,HR,Medium
