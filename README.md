@@ -11,6 +11,8 @@ The system uses OCR technology to extract text from resumes and suggests persona
 - OCR-Based Resume Text Extraction
 - Interview Question Recommendation
 - Supports Multiple Skills
+## Dataset Information
+- The Dataset used in this project was custom-created for interview preparation purposes. It contains technical interview questions categorizes based on different skills such as python, HTML,CSS,Machine Learning,Deep Learning,TensorFlow,SQL
 
 ## Technologies Used
 - Python
